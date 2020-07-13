@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
 #  description = "90%"
   
 [[feature]]
-  icon = "fa-adobe"
+  icon = "adobe"
   icon_pack = "fab"
   name = "Adobe Creative Cloud Suite"
 #  description = "100%"  
